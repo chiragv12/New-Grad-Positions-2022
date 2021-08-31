@@ -11,10 +11,10 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 
 ## The List
 
-| Name  |  Location |  Notes |
-|---|---|-------------|
+| Name  |  Location |  Notes | Status |
+|---|---|-------------|----|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions |
-|[Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | US | New Grad SDE |
+|[Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | US | New Grad SDE | Referral Sent|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | NYC | |
 [Wish](https://jobs.smartrecruiters.com/Wish/743999745330820)| SF | [Other positions available](https://www.wish.com/careers/jobs) |
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
