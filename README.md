@@ -78,7 +78,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
 |[Zoom](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Remote | [Full Stack](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Full-Stack-Development-Engineer--NEW-GRAD-_R5738), [Frontend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Development-Engineer--NEW-GRAD-_R5740), [Backend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Back-End-Development-Engineer--NEW-GRAD-_R5741), [Devops](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-DevOps-Engineer--NEW-GRAD-_R5743-1) |
-|[Twilio](https://boards.greenhouse.io/twilio/jobs/3409275) | SF | |
 |[Databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=5488575002) | SF | |
 |[Point72](https://careers.point72.com/CSJobDetail?jobName=2022-cubist-software-engineer-program&jobCode=CSS-0003338) | NYC | Multiple roles |
 |[FactSet](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2022-_R12000) | Multiple | |
@@ -89,3 +88,13 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
 |[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
 |[Uber](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End |
+|[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) |
+|[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
+|[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
+|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
+|[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
+|[IXL](https://ie.ixl.com/company/careers) | San Mateo, Raleigh, Toronto | New Grad SWE |
+|[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
+|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
+|[Indeed](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
+|[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
