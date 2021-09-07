@@ -40,13 +40,13 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | | Referral Sent |
-|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
+|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | | Applied |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
 |[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) |
 |[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) |
 |[General Motors](https://search-careers.gm.com/job/GENEA0084JR000044848ENUS/Entry-Level-Global-Product-Development-Software-Engineer-Rotational-Program) | Warren, Michigan, United States of America | Entry Level Global Product Development – Software Engineer Rotational Program |
 |[Qualtrics](https://www.qualtrics.com/careers/us/en/job/260179/Software-Engineer-New-Grad-Seattle-WA) | Seattle, Provo | |
-|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page|
+|[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | Multiple positions, listed under University at bottom of the page| Applied for backend, ios, security|
 |[Sunshine](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4) | Palo Alto, CA |  |
 |[PEAK6](https://careers.peak6.com/jobs/campus/chicago-il-united-states/software-engineer-campus-entry-level/3193254?gh_jid=3193254#/) | Chicago, IL |  |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3185067) | San Mateo, CA |  |
@@ -58,9 +58,9 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[HubSpot](https://www.hubspot.com/careers/jobs/1847807?hubs_signup-cta=careers-apply) | Cambridge |  |
 |[Nuro](https://www.nuro.ai/careersitem?gh_jid=3355701) | Mountain View |  |
 |[Capital One](https://campus.capitalone.com/job/mclean/technology-development-program-associate-2022/1786/19643594) | Multiple |  |
-|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  |
+|[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  | Referral pending |
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?job_type_id%5B%5D=1756&keywords=new+graduate&location%5B%5D=US&posting_org_id%5B%5D=1&posting_team_id%5B%5D=6&posting_team_id%5B%5D=5&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=12&posting_team_id%5B%5D=12&posting_team_id%5B%5D=3&posting_team_id%5B%5D=13&posting_team_id%5B%5D=1&posting_team_id%5B%5D=20&posting_team_id%5B%5D=11&posting_team_id%5B%5D=8&posting_team_id%5B%5D=4&posting_team_id%5B%5D=7&posting_team_id%5B%5D=18&posting_team_id%5B%5D=10&posting_team_id%5B%5D=9&posting_team_id%5B%5D=2) | Natick, MA |  |
-|[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  |
+|[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  | Applied |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
 [Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
