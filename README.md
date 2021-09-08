@@ -61,17 +61,17 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139739/apply/email?keyword=2022+Software+Engineer+Program+-+Full+Time+Opportunity) | NYC |  | Referral pending |
 |[MathWorks](https://www.mathworks.com/company/jobs/opportunities/search?job_type_id%5B%5D=1756&keywords=new+graduate&location%5B%5D=US&posting_org_id%5B%5D=1&posting_team_id%5B%5D=6&posting_team_id%5B%5D=5&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=12&posting_team_id%5B%5D=12&posting_team_id%5B%5D=3&posting_team_id%5B%5D=13&posting_team_id%5B%5D=1&posting_team_id%5B%5D=20&posting_team_id%5B%5D=11&posting_team_id%5B%5D=8&posting_team_id%5B%5D=4&posting_team_id%5B%5D=7&posting_team_id%5B%5D=18&posting_team_id%5B%5D=10&posting_team_id%5B%5D=9&posting_team_id%5B%5D=2) | Natick, MA |  |
 |[PayPal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  | Applied |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  | Applied |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
 [Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
 |[IBM](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
 |[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team |
-|[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | |
+|[Stripe](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | | Applied | 
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
 |[Quora](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science |
 |[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | San Francisco, Boston |  |
 |[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE |
-|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) |
+|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) | Applied |
 |[Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
@@ -87,8 +87,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | SF | |
 |[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
 |[AnyScale](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
-|[Uber](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End |
-|[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) |
+|[Uber](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End | applied |
+|[DoorDash](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) | referral possible |
 |[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
 |[Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
