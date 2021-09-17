@@ -40,7 +40,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Quant + Swe |
 |[Brex](https://www.brex.com/careers/engineering/5319155002?gh_jid=5319155002)| Remote | |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085245/Software-Engineering-Full-time-Opportunities-for-University-Graduates) | Multiple | | Referral Sent |
-|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | |
+|[Facebook](https://www.facebook.com/careers/v2/jobs/213402246952404/) | Multiple | | Applied |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Multiple | |
 |[IMC](https://careers.imc.com/us/en/job/REQ-01188/Graduate-Software-Engineer) | Chicago | SWE, [Quant](https://careers.imc.com/us/en/job/REQ-01184/Graduate-Quant-Trader) |
 |[Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/) | Chicago, Austin | [SWE (Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/5423850002/), [SWE (Austin)](https://www.optiver.com/working-at-optiver/career-opportunities/5423874002/) |
